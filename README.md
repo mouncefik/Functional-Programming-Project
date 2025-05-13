@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c944da1e-c91d-4f67-8d33-d681c55384b6)# Functional Programming Algorithms
+# Functional Programming Algorithms
 
 This repository contains implementations of classic algorithms and problems using the functional programming paradigm, primarily in OCaml. The project is structured into three main parts, each tackling a different challenge: implementing a Tic-Tac-Toe game with AI, solving the Knapsack Problem using Dynamic Programming, and optimizing the Traveling Salesperson Problem (TSP).
 
